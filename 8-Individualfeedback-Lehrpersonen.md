@@ -1,0 +1,1 @@
+Wir haben im bisherigen Feedback darauf verzichtet, Lektoren beim Namen zu nennen, da wir es nicht für notwendig hielten um die Kritik vorbringen zu können. Jedoch gab es einige Vorfälle in den vergangen Semestern, die einzelne Lektoren direkt betreffen:
