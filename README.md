@@ -1,4 +1,5 @@
-BIF Feedback (Jahrgang 5. Semester 2014/2015)
+#BIF Feedback (Jahrgang 5. Semester. 2014/2015)
+
 Hierbei handelt es sich um einen Feedback Brief an den Herrn Pucher bezüglich des Bachelorstudiums.
 
 Es ist jeder Student des Jahrgangs herzlich eingeladen, an dem Brief mitzuwirken. Mittels Pull-Request könnt Ihr eure Änderungen beitragen.
